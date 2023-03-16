@@ -1,2 +1,2 @@
 # backup.sh
-Script pour backup des fichiers entre serveurs
+Script pour backup des fichiers entre serveurs via SSH.
